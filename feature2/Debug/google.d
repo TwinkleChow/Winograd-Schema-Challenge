@@ -1,0 +1,1 @@
+google.o: ../google.cpp

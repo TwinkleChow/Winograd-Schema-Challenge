@@ -1,0 +1,3 @@
+[ steal-s drive-s walk-s single-s score-s hold-s throw-s catch-s hit-s lead_off-s bunt-s move-s ]
+[ steal-s strike-s kill-s smash-s loot-s damage-s destroy-s rip-s tear-s injure-s hit-s burn-s ]
+[ steal-s avenge-o team_up-s watch-o wed-s find-s turn-s sell-s buy-s return-s evoke-s acquire-s ]

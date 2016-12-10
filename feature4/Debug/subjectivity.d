@@ -1,0 +1,1 @@
+subjectivity.o: ../subjectivity.cpp
